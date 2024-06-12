@@ -1,0 +1,9 @@
+streamlit
+yfinance
+plotly
+seaborn
+nltk
+scikit-learn
+requests
+statsmodels
+git+https://github.com/robertmartin8/PyPortfolioOpt
